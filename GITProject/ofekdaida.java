@@ -4,7 +4,7 @@ public class Hello
     {
         for (int i=1;i<=9; i++) 
         {    
-            System.out.println("ofek daida change ..."+i);   
+            System.out.println("ofek daida change1 ..."+i);   
         }  
     }
 } 
